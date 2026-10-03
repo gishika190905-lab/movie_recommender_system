@@ -6,7 +6,7 @@ The application is built using **Python and Streamlit** and uses **Cosine Simila
 
 ## 🌐 Live Demo
 
-👉 **[CineMatch — Movie Recommender](https://cinematchmovie-recommender.streamlit.app/)**
+👉 **[CineMatch — Movie Recommender](https://cinematchrecommendersystem.streamlit.app/)**
 
 ---
 
