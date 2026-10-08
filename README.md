@@ -219,29 +219,27 @@ The large dataset files are managed using **Git Large File Storage (Git LFS)**.
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```text
 movie_recommender_system/
 │
-├── app.py
-├── movie_dict.pkl
-├── movies.pkl
-├── similarity.pkl
+├── screenshots/
+│   ├── home_page.png
+│   ├── recommendations.png
+│   └── movie_details.png
 │
-├── tmdb_5000_movies.csv
-├── tmdb_5000_credits.csv
-│
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── .gitattributes
-├── setup.sh
-├── Procfile
-│
-└── .devcontainer/
+├── app.py                  
+├── movie_dict.pkl          
+├── movies.pkl              
+├── similarity.pkl          
+├── requirements.txt       
+├── Procfile               
+├── setup.sh                
+├── .gitignore             
+├── .gitattributes         
+└── README.md             
 ```
-
 ---
 
 ## 🎨 Application Interface
