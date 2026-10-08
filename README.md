@@ -23,7 +23,20 @@ When a user selects a movie, the application recommends the **top 5 similar movi
 The application also integrates the **TMDB API** to provide movie posters and additional movie information.
 
 ---
+## 🖥️ Application Preview
 
+### 🏠 Home Page
+
+![CineMatch Home Page](screenshots/home_page.png)
+
+### 🎬 Movie Recommendations
+
+![CineMatch Recommendations](screenshots/recommendations.png)
+
+### 🎥 Movie Details
+
+![CineMatch Movie Details](screenshots/movie_details.png)
+---
 ## 🎯 Objectives
 
 - Build a movie recommendation system using Machine Learning concepts.
